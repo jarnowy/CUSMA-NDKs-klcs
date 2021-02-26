@@ -10,9 +10,9 @@ This repository contains a layout that is like United States-International but r
 
 Following the Linux version "US-International with French letters" in Ubuntu 20.04 LTS
 
-![Normal.png](./Normal.png)
-![AltGr.png](./AltGr.png)
-![ShiftAltGr.png](./ShiftAltGr.png)
+![Normal.png](Normal.jpg)
+![AltGr.png](AltGr.jpg)
+![ShiftAltGr.png](ShiftAltGr.jpg)
 
 # Install
 
