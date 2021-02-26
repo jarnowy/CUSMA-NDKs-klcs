@@ -36,3 +36,11 @@ Following the Linux version "US-International with French letters" in Ubuntu 20.
 The layout file can be opened with Microsoft's Keyboard Layout Creator (MKLC) tool, which Microsoft distributes for free. After opening the file in MKLC, choosing Project -> Build DLL and Setup Package will create an installer that can be used to add this layout to Windows.
 
 **Remember** to log off and on again, in order for the changes to take effect.
+
+# Autohotkey DualControl
+
+Download [Autohotkey](https://www.autohotkey.com/)
+
+Find `Convert ahk to exe`, and add the downloaded `ahk` as source.
+
+The script returns an exe that uses to activate dual-control mode.
