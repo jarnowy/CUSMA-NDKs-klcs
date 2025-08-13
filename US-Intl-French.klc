@@ -1,4 +1,4 @@
-﻿KBD	usxcafr	"US International Keyboard for French"
+﻿KBD	kbdusxfr	"Acadien"
 
 COPYRIGHT	"(c) 2020 Hoang-An Le, 2025 jlrn@ "
 
@@ -163,5 +163,6 @@ LANGUAGENAMES
 0409	English (United States)
 
 ENDKBD
+
 
 
