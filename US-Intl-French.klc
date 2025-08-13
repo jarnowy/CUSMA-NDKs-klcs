@@ -1,8 +1,8 @@
-﻿KBD	USIntGr	"US International Keyboard for French"
+﻿KBD	usxcafr	"US International Keyboard for French"
 
-COPYRIGHT	"(c) 2020 Hoang-An Le"
+COPYRIGHT	"(c) 2020 Hoang-An Le, 2025 jlrn@ "
 
-COMPANY	"Hoang-An Le"
+COMPANY	"up.edu.mx"
 
 LOCALENAME	"fr-CA"
 
@@ -163,4 +163,5 @@ LANGUAGENAMES
 0409	English (United States)
 
 ENDKBD
+
 
