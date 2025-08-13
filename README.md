@@ -6,11 +6,14 @@ The layout also designates several keys as "dead keys", particularly the apostro
 
 For some use cases, this can be annoying, in particular if you don't need the non-ASCII characters that are entered with the help of those dead keys. With the US-International layout, you can type several languages by only using the AltGr dead key. For example, you can type ä å ö ü ß ø æ by using various AltGr combinations, meaning AltGr is sufficient for German, Danish, Norwegian and Swedish among others.
 
-This repository contains a layout that is like United States-International but removes the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact.
+This repository contains two layouts that are United States-International based, but remove the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact.
+
+The standard US keyboard layout is the following:
+
+![Normal.png](Normal.jpg)
 
 Following the Linux version "US-International with French letters" in Ubuntu 20.04 LTS
 
-![Normal.png](Normal.jpg)
 ![AltGr.png](AltGr.jpg)
 ![ShiftAltGr.png](ShiftAltGr.jpg)
 
