@@ -1,8 +1,8 @@
-﻿KBD	USIntGr	"United States-International - AltGr - No Dead Keys"
+﻿KBD	usxcaes	"United States-International - AltGr - No Dead Keys"
 
-COPYRIGHT	"(c) 2017 Daniels Umanovskis"
+COPYRIGHT	"(c) 2017 Daniels Umanovskis, 2025 jlrn@ "
 
-COMPANY	"Daniels Umanovskis"
+COMPANY	"up.edu.mx"
 
 LOCALENAME	"es-US"
 
@@ -161,4 +161,5 @@ LANGUAGENAMES
 
 0409	English (United States)
 ENDKBD
+
 
