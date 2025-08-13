@@ -1,4 +1,4 @@
-# US International Layout (no dead keys) for Windows
+# US International Layouts (no dead keys) for Windows
 
 By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages.
 
@@ -6,7 +6,7 @@ The layout also designates several keys as "dead keys", particularly the apostro
 
 For some use cases, this can be annoying, in particular if you don't need the non-ASCII characters that are entered with the help of those dead keys. With the US-International layout, you can type several languages by only using the AltGr dead key. For example, you can type ä å ö ü ß ø æ by using various AltGr combinations, meaning AltGr is sufficient for German, Danish, Norwegian and Swedish among others.
 
-This repository contains two layouts that are United States-International based, but remove the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact.
+This repository contains two layouts that are United States-International based, but remove the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact. The first of them keeps the original layout specified by Microsoft and covers Spanish, German, and Scandinavian (Danish/Norwegian/Faroese/Icelandic), perhaps among others, while the second is dedicated to French, following a Linux-Ubuntu specification.
 
 The standard US keyboard layout is the following:
 
