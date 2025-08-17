@@ -1,12 +1,17 @@
 # US International Layouts (no dead keys) for Windows
 
-By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages.
+By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages, covering most of the Latin 1 (ISO 8859 1) code page.
 
-The layout also designates several keys as "dead keys", particularly the apostrophe (') and double quotes ("). So to enter double quotes, you have to type " followed by space. Some other characters are available by using AltGr as a dead key.
+The layout designates several keys as "dead keys", particularly the apostrophe (') and double quotes ("). So to enter double quotes, you have to type " followed by space. Some other characters are available by using AltGr as a dead key.
 
-For some use cases, this can be annoying, in particular if you don't need the non-ASCII characters that are entered with the help of those dead keys. With the US-International layout, you can type several languages by only using the AltGr dead key. For example, you can type ä å ö ü ß ø æ by using various AltGr combinations, meaning AltGr is sufficient for German, Danish, Norwegian and Swedish among others.
+For some use cases, this can be annoying, in particular if you don't need the non-ASCII characters that are entered with the help of those dead keys. With the Microsoft US-International layout you can type several languages by only using the AltGr dead key. For example, you can type ä å ö ü ß ø æ and accented vowels by using various AltGr combinations, meaning AltGr is roughly sufficient for German, Scandinavian (Danish, Faroese, Finnish, Icelandic, Norwegian, Swedish) and Spanish, among others.
 
-This repository contains two layouts that are United States-International based, but remove the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact. The first of them keeps the original layout specified by Microsoft and covers Spanish, German, and Scandinavian (Danish/Norwegian/Faroese/Icelandic), perhaps among others, while the second is dedicated to French, following a Linux-Ubuntu specification.
+This repository contains two layouts that are United States-International based, but remove the apostrophe ('), double quotes ("), circumflex (^), backtick (``) and tilde (~) as dead keys, while leaving the AltGr dead key combinations intact. The first of them keeps the original layout specified by Microsoft and covers Spanish, German, and Scandinavian, perhaps among others, while the second is dedicated to French, following a Linux-Ubuntu specification.
+
+The names of the keyboards require a little explanation: 
+
+1. On February 15, 1858, the Texas Legislature passed a law in Austin appropriating funds to translate and print state laws into Spanish, German, and Norwegian, the mother tongue of a significant part of the population of the State, up for two years; since these are some languages covered by the standard US Intl Keyboard with AltGr NoDeadKeys, the keyboard has been renamed as "Austinite", and given the code name "kbdusxtx".
+2. The islands of St Pierre and Miquelon are but the final leftover of the once large territory of Nouvelle France; nowadays they are a French Overseas Collectivity (1985; Territory since 1946) of France. So, technically, they are the only territory of France in Northern America: thus the keyboard code name is "kbdusxfr", and the keyboard name is "Acadien", to commemorate the first succesful French settlement (Port Royal, Acadia, 1605; today's Annapolis Royal, Nova Scotia) in the New World.
 
 The standard US keyboard layout is the following:
 
