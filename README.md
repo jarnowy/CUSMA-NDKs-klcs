@@ -10,7 +10,7 @@ This repository contains two layouts that are United States-International based,
 
 The names of the keyboards require a little explanation: 
 
-1. On February 15, 1858, the Texas Legislature passed a law in Austin appropriating funds to translate and print state laws into Spanish, German, and Norwegian, the mother tongue of a significant part of the population of the State at the time; since these are the main languages covered by the standard US Intl Keyboard with AltGr NoDeadKeys, the keyboard has been renamed as "Texas 1858", given the code name "kbdusxtx", and assigned LCID 540A, or "Spanish US".
+1. On February 15, 1858, the Texas Legislature passed a law appropriating funds to translate and print State laws into Spanish, German, and Norwegian, the mother tongue of a significant part of the population of the State at the time; since these are the main languages covered by the standard US Intl Keyboard with AltGr NoDeadKeys, the keyboard has been renamed as "Austin 1858", given the code name "kbdusxtx", and assigned LCID 540A, or "Spanish US".
 2. The islands of St Pierre and Miquelon are the remains of the once large territory of Nouvelle France; nowadays they are a French Overseas Collectivity (since 1985; Territory since 1946, after a long take and give with the United Kingdom). So, technically, there is some French territory in Northern America: thus the keyboard code name is now "kbdusxfr", it has been assigned the LCID 0C0C or "French Canada", and the keyboard name is "Acadien", to commemorate the first succesful French settlement (Port Royal, Acadia, 1605; today's Annapolis Royal, Nova Scotia) in the New World.
 
 The standard US keyboard layout is the following:
